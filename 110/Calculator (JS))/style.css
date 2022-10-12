@@ -1,0 +1,21 @@
+/* * {
+
+} */
+
+h1 {
+    text-align: center;
+}
+
+#buttonsContainer {
+    width: 500px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    /* display: inline-block; */
+}
+
+button {
+    height: 50px;
+    width: 115px;
+    /* padding: 10px 0px; */
+}
